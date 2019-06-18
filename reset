@@ -2,7 +2,10 @@ reset demo -1
 reset demo -2
 reset demo -3
 <<<<<<< HEAD
+<<<<<<< HEAD
 changes for revert demo
 g to prevous version
+=======
+>>>>>>> parent of 6eec79a... revert demo-1
 =======
 >>>>>>> parent of 6eec79a... revert demo-1
