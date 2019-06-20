@@ -3,3 +3,5 @@ My test file
 doing remote change from GITHUB
 
 change from local to remote
+
+changes for Jenkins build
